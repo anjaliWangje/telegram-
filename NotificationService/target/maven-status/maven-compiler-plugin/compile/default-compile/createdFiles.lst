@@ -1,0 +1,15 @@
+com\example\notificationservice\dto\NotificationRequestDto$NotificationRequestDtoBuilder.class
+com\example\notificationservice\model\NotificationEntity$NotificationEntityBuilder.class
+com\example\notificationservice\exception\NotificationException.class
+com\example\notificationservice\exception\ApiResponse.class
+com\example\notificationservice\dto\ResponseDto.class
+com\example\notificationservice\model\NotificationEntity.class
+com\example\notificationservice\service\NotificationService.class
+com\example\notificationservice\dto\NotificationRequestDto.class
+com\example\notificationservice\exception\GlobalExceptionHandler.class
+com\example\notificationservice\dto\ResponseDto$ResponseDtoBuilder.class
+com\example\notificationservice\NotificationserviceApplication.class
+com\example\notificationservice\consumer\KafkaListener.class
+com\example\notificationservice\model\NotificationStatus.class
+com\example\notificationservice\model\Channels.class
+com\example\notificationservice\repository\NotificationRepository.class
